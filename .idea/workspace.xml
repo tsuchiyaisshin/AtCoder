@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a56b1fa4-bfdc-4609-b42c-8508c95ca08e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/day1/vanitshing_pitch.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <workItem from="1613109749786" duration="155000" />
       <workItem from="1613109917558" duration="230000" />
       <workItem from="1613203902859" duration="128000" />
-      <workItem from="1613204112276" duration="385000" />
+      <workItem from="1613204112276" duration="991000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1613108447221</created>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613204353634</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix: readmeの更新">
+      <created>1613204759172</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613204759172</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +113,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="set up config" />
     <MESSAGE value="add cpp" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cpp" />
+    <MESSAGE value="fix: readmeの更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: readmeの更新" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613109974373">
