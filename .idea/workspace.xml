@@ -11,13 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a56b1fa4-bfdc-4609-b42c-8508c95ca08e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/A/day2/welcome_to_atcoder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/A/day2/welcome_to_atcoder.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/A/day3/product.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/day1/test" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/A/day1/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/day1/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/A/day1/test.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/day1/vanishing_pitch" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/A/day1/vanishing_pitch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/day1/vanitshing_pitch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/A/day1/vanitshing_pitch.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +44,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -71,7 +66,9 @@
       <workItem from="1613109917558" duration="230000" />
       <workItem from="1613203902859" duration="128000" />
       <workItem from="1613204112276" duration="1171000" />
-      <workItem from="1613392874809" duration="1578000" />
+      <workItem from="1613392874809" duration="1678000" />
+      <workItem from="1613448136004" duration="272000" />
+      <workItem from="1613448421172" duration="444000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1613108447221</created>
@@ -108,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613205514974</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="refactor">
+      <created>1613394541878</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613394541878</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,25 +137,28 @@
     <MESSAGE value="add cpp" />
     <MESSAGE value="fix: readmeの更新" />
     <MESSAGE value="create day1 test" />
-    <option name="LAST_COMMIT_MESSAGE" value="create day1 test" />
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613109974373">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1613109974373" />
-    <state x="346" y="226" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613392953187">
+    <state x="461" y="301" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613448259642">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="461" y="301" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1613448259642" />
+    <state x="346" y="226" key="#com.intellij.fileTypes.FileTypeChooser/1344.-34.1440.900/0.0.1344.840@0.0.1344.840" timestamp="1613392953187" />
+    <state x="405" y="196" key="SettingsEditor" timestamp="1613448409295">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="405" y="196" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1613448409295" />
+    <state x="372" y="223" key="Vcs.Push.Dialog.v2" timestamp="1613394550202">
       <screen x="0" y="0" width="1344" height="840" />
     </state>
-    <state x="346" y="226" key="#com.intellij.fileTypes.FileTypeChooser/1344.-34.1440.900/0.0.1344.840@0.0.1344.840" timestamp="1613392953187" />
-    <state x="405" y="196" key="SettingsEditor" timestamp="1613110013461">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="405" y="196" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1613110013461" />
-    <state x="496" y="297" key="Vcs.Push.Dialog.v2" timestamp="1613205520411">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
     <state x="496" y="297" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1613205520411" />
+    <state x="372" y="223" key="Vcs.Push.Dialog.v2/1344.-34.1440.900/0.0.1344.840@0.0.1344.840" timestamp="1613394550202" />
     <state x="337" y="164" width="670" height="676" key="search.everywhere.popup" timestamp="1613393027368">
       <screen x="0" y="0" width="1344" height="840" />
     </state>
