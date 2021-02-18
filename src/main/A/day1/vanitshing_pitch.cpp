@@ -5,7 +5,6 @@ int read() {
 	scanf("%d", &n);
 	return n;
 }
-
 int main() {
 	int v = read();
 	int t = read();
