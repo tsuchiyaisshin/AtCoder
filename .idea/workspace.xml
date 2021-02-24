@@ -10,7 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b1fa4-bfdc-4609-b42c-8508c95ca08e" name="Default Changelist" comment="" />
+    <list default="true" id="a56b1fa4-bfdc-4609-b42c-8508c95ca08e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/A/day6/coins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/A/day6/coins.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/A/day6/coins.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +77,8 @@
       <workItem from="1613448136004" duration="272000" />
       <workItem from="1613448421172" duration="968000" />
       <workItem from="1613653729868" duration="2255000" />
-      <workItem from="1613828621455" duration="1901000" />
+      <workItem from="1613828621455" duration="2179000" />
+      <workItem from="1614165330129" duration="1759000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1613108447221</created>
@@ -138,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613830450485</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="create coins">
+      <created>1614002999746</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614002999746</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +179,8 @@
     <MESSAGE value="create day3" />
     <MESSAGE value="create placing_marbles" />
     <MESSAGE value="create shift_only" />
-    <option name="LAST_COMMIT_MESSAGE" value="create shift_only" />
+    <MESSAGE value="create coins" />
+    <option name="LAST_COMMIT_MESSAGE" value="create coins" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613109974373">
@@ -183,10 +196,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="405" y="196" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1613448409295" />
-    <state x="399" y="239" key="Vcs.Push.Dialog.v2" timestamp="1613830455539">
+    <state x="399" y="239" key="Vcs.Push.Dialog.v2" timestamp="1614003006039">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="399" y="239" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1613830455539" />
+    <state x="399" y="239" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1614003006039" />
     <state x="496" y="297" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1613655833848" />
     <state x="372" y="223" key="Vcs.Push.Dialog.v2/1344.-34.1440.900/0.0.1344.840@0.0.1344.840" timestamp="1613394550202" />
     <state x="337" y="164" width="670" height="676" key="search.everywhere.popup" timestamp="1613393027368">
