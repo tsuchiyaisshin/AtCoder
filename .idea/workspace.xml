@@ -11,8 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a56b1fa4-bfdc-4609-b42c-8508c95ca08e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
       <workItem from="1613653729868" duration="2255000" />
       <workItem from="1613828621455" duration="2179000" />
       <workItem from="1614165330129" duration="1916000" />
-      <workItem from="1615527856146" duration="56000" />
+      <workItem from="1615527856146" duration="191000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1613108447221</created>
@@ -157,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614167910085</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add git ignore">
+      <created>1615527924081</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1615527924081</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +193,8 @@
     <MESSAGE value="create placing_marbles" />
     <MESSAGE value="create shift_only" />
     <MESSAGE value="create coins" />
-    <option name="LAST_COMMIT_MESSAGE" value="create coins" />
+    <MESSAGE value="add git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add git ignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613109974373">
